@@ -4,6 +4,7 @@
  */
 // TODO 1: Ketikkan kode Anda di bawah ini!
 const mahasiswa = [
+
     {
         nama : 'randa',
         stambuk: 2021,
